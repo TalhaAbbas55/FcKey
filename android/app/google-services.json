@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478287127258",
+    "project_id": "digital-hair-journal",
+    "storage_bucket": "digital-hair-journal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478287127258:android:8ed192bb891234e117fbe3",
+        "android_client_info": {
+          "package_name": "com.fckey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPP6pwVjC1_mXxf5VT_sEAdz8n4hwh3QA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
